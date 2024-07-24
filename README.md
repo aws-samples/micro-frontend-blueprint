@@ -23,7 +23,7 @@ Users connect to the Web Application through Amazon CloudFront in front of a Loa
 
 ## Deploying the stacks
 
-To make the best use of MFE, each teams needs to be the owner of their MFE. This is why this repository contains 3 stacks, one for each MFE and one for the overall structure that will serve the MFE to the user. This ensures that each MFE is loosly coupled with the rest of the application and can exists with minimal communication between each team.
+To make the best use of Micro-frontends (MFE), each teams needs to be the owner of their MFE. This is why this repository contains 3 stacks, one for each MFE and one for the overall structure that will serve the MFE to the user. This ensures that each MFE is loosly coupled with the rest of the application and can exists with minimal communication between each team.
 
 Because of this, deploying the stack will require you to install node modules multiple times. In a production environment, each team will be in charge of their own modules and dependencies and this is what this pattern is trying to showcase.
 
