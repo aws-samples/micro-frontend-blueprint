@@ -1,4 +1,4 @@
-# Micro-frontends (MFE) on AWS pattern
+# Micro-frontends blueprint
 
 ## Architecture Diagram
 
@@ -155,7 +155,7 @@ If you would like to have the CDN serve your images, you can copy the **/public*
 <img src="my-cdndomain.net/public/image.png" />
 ```
 
-## Deleteing resources
+## Deleting resources
 
 This project deploys AWS resources, hence they can start incurring costs if left idle. To remove the resources created when deploying the stacks, follow the following instructions.
 
