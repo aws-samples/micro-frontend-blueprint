@@ -100,7 +100,7 @@ Run the MakeFile to build the application and make it ready for deployment:
 make build-mfe
 ```
 
-Once this process is done, naviagte to the parent directory:
+Once this process is done, navigate to the parent directory:
 ```
 cd ..
 ```
@@ -115,7 +115,7 @@ Deploy the CDK stack
 cdk deploy
 ```
 
-Once this is completed, naviagate to /home from your CloudFront URL and you be able to see your MFE application running!
+Once this is completed, navigate to /home from your CloudFront URL and you be able to see your MFE application running!
 
 ### Deploying the /product MFE
 
@@ -131,7 +131,7 @@ Run the MakeFile to build the application and make it ready for deployment:
 make build-mfe
 ```
 
-Once this process is done, naviagte to the parent directory:
+Once this process is done, navigate to the parent directory:
 ```
 cd ..
 ```
@@ -146,7 +146,7 @@ Deploy the CDK stack
 cdk deploy
 ```
 
-Once this is completed, naviagate to /product from your CloudFront URL and you be able to see your MFE application running! You can click the button in the middle to switch between each MFE.
+Once this is completed, navigate to /product from your CloudFront URL and you be able to see your MFE application running! You can click the button in the middle to switch between each MFE.
 
 ### Working with images
 
